@@ -13,6 +13,7 @@
 ### 2. 访问你的个人博客地址查看是否搭建成功
   - 如: [https://demo-liu.github.io](https://demo-liu.github.io)
     出现下图所示,即为成功
+    ![pages](https://github.com/Demo-Liu/MyPicture/raw/master/githubio/pages.png)
     
 ### 3.生成ssh key  
   **1)** 首先需要你本地安装了 **Git**  
@@ -47,5 +48,6 @@
   - 填写 **Title**(任意值), **Key** 为id_rsa.pub中的公钥,使用记事本打开然后copy填写即可
     另外 要勾选 **Allow write access**
   ![addkey2](https://github.com/Demo-Liu/MyPicture/raw/master/githubio/addkey2.png)
-  
+
+### 5.关于私钥的使用
   **私钥为公钥对应key,需要放至FreeServer项目 resources/key/ 目录下, 至此,可以使用FreeServer项目发布的个人博客便搭建完毕**
