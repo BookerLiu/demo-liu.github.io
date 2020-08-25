@@ -4,6 +4,6 @@
 
 ### 如何使用
 
-**Fork** 这个仓库,然后进入你Fork的仓库Settings 
-修改仓库名称前缀为你的用户名
-用户名为小写: **{username}**.github.io
+**Fork** 这个仓库,然后进入你Fork的仓库Settings   
+修改仓库名称前缀为你的用户名  
+用户名为小写: **{username}**.github.io  
