@@ -8,5 +8,5 @@
 **2.** 修改仓库名称前缀为你的用户名  
   - 用户名为小写: **{username}**.github.io  
 **3.** 访问你的个人博客地址查看是否搭建成功
-  - 如: [demo-liu.github.io](https://demo-liu.github.io)
+  - 如: [https://demo-liu.github.io](https://demo-liu.github.io)
 
