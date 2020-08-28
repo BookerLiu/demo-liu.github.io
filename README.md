@@ -40,7 +40,7 @@
   如下图所示,即为成功  
   ![sshkey](https://github.com/Demo-Liu/MyPicture/raw/master/githubio/sshkey.png)
   - 现在查看.ssh文件夹中应包含以下文件, 其中 **id_rsa** 为私钥, **id_rsa.pub** 为公钥 
-  (.ssh文件路径为 当前用户根目录下 如windows下为: C:\Users\ **{username}** \.ssh)
+  (.ssh文件路径为 当前用户根目录下 如windows下为: C:\Users\ **{username}** \ .ssh)
   ![sshfile](https://github.com/Demo-Liu/MyPicture/raw/master/githubio/sshfile.png)
 ### 4.设置仓库公钥
   - 打开 Fork 仓库的 **Settings** --> **Deploy Keys** --> **Add deploy key**
